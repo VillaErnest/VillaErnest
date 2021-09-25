@@ -1,6 +1,6 @@
 
 <center>
-<table>
+<table style="border: 0px">
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VillaErnest&hide=html&layout=compact&theme=buefy" /></td>
         <td><img width="520px" align="left" src="https://github-readme-stats.vercel.app/api?username=VillaErnest&theme=buefy"/></td>
