@@ -14,7 +14,7 @@ I am a self-taught programmer based on Philippines. I am still on my senior high
 Programming and making projects related to anime/manga is what I do when I do not have any commissions/work to complete or work on.
 
 ## How to contact me?
-There are various ways you can contact me, I would appreciate if you email me with `ernestlouisvillacorta@gmail.com`. You can also contact me on Discord (`Ernest#4623`).
+There are various ways you can contact me, I would appreciate if you email me with `villaernest.developer@gmail.com`. You can also contact me on Discord (`Ernest#4623`).
 
 ## Random facts about me
 
