@@ -1,12 +1,7 @@
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=villaernest&count_private=true&show_icons=true&theme=onedark"/>
+</p>
 
-<center>
-<table style="border: 0px">
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VillaErnest&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="520px" align="left" src="https://github-readme-stats.vercel.app/api?username=VillaErnest&theme=buefy"/></td>
-    </tr>   
-</table>
-</center>  
 
 # Hey! <br>Welcome to my GitHub profile!
 I am a self-taught programmer based on Philippines. I am still on my senior highschool years under the STEM strand.
