@@ -4,7 +4,7 @@
 
 
 # Hey! <br>Welcome to my GitHub profile!
-I am a self-taught programmer based on Philippines. I am still on my senior highschool years under the STEM strand.
+I am a self-taught programmer based on Philippines.
 
 Programming and making projects related to anime/manga is what I do when I do not have any commissions/work to complete or work on.
 
