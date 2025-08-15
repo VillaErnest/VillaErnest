@@ -19,7 +19,7 @@ I spend a lot of my time making Roblox projects, small web apps, and tinkering w
 - **Frameworks:** Matter, ECS, Knit, React-Lua  
 - **Paradigms:** ECS, OOP, Imperative, Declarative  
 
-I also make external tools when needed — for example, I once built a Perlin noise previewer so I could experiment with procedural terrain for my Roblo game without running a Roblox game instance in Studio every time.
+I also make external tools when needed — for example, I once built a Perlin noise previewer so I could experiment with procedural terrain for my Roblox game without running a Roblox game instance in Studio every time.
 
 ---
 
