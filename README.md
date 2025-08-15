@@ -1,23 +1,33 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=villaernest&count_private=true&show_icons=true&theme=onedark"/>
-</p>
+# 👋 Hey, I’m Ernest Villacota  
+*(also known as **MrOutput**)*
 
+🎓 Electronics Engineering student who loves building things — whether it’s a game, a tool, or just some random experiment that popped into my head.  
+I spend a lot of my time making Roblox projects, small web apps, and tinkering with electronics.
 
-# Hey! <br>Welcome to my GitHub profile!
-I am a self-taught programmer based on Philippines.
+---
 
-Programming and making projects related to anime/manga is what I do when I do not have any commissions/work to complete or work on.
+## 🛠 What I’ve Been Into
+- 🎮 **Roblox Development** — roleplay games, RTS ideas, survival sandboxes… I enjoy systems that feel alive and flexible.  
+- ⚡ **Side Projects** — POS systems, IoT dashboards, and random utilities that make my life easier.  
+- 🧩 **Problem Solving** — I weirdly enjoy debugging and figuring out why something isn’t working.
 
-## How to contact me?
-There are various ways you can contact me, I would appreciate if you email me with `villaernest.developer@gmail.com`. You can also contact me on Discord (`Ernest#4623`).
+---
 
-## Random facts about me
+## 🧰 Tech & Tools I Use
+- **Technologies:** Roblox Studio, Rojo, Python  
+- **Languages:** Lua, Luau, JavaScript, Node.js, Basic HTML/CSS  
+- **Frameworks:** Matter, ECS, Knit, React-Lua  
+- **Paradigms:** ECS, OOP, Imperative, Declarative  
 
-- 😄 Pronouns: He/Him
-- 😀 Nationality: Filipino
-- 📚 Languages I speak: English, Filipino, Cebuano and a little bit Spanish
-- 🔭 I am currently working on: An app that automates crypto currency trading through telegram messages
-- 🌱 I am currently learning: Dart programming language and Flutter framework
-- 👯 I am looking to collaborate on: Any project, as long I am not occupied with another project and have time
-- 💬 You can ask me about: Anything, it can be non-programming related
-- 📺 Game genre that I like: RP and Sandbox 
+I also make external tools when needed — for example, I once built a Perlin noise previewer so I could experiment with procedural terrain for my Roblo game without running a Roblox game instance in Studio every time.
+
+---
+
+## 🌐 My Little Corner of the Web
+📎 [villaernest.dev](https://villaernest.dev)
+
+---
+
+## 📫 How to Reach Me
+- GitHub: [@VillaErnest](https://github.com/VillaErnest)  
+- Email: villaernest.developer@gmail.com  
