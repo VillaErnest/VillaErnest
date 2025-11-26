@@ -1,33 +1,68 @@
-# 👋 Hey, I’m Ernest Villacota  
-*(also known as **MrOutput**)*
+<div align="center">
 
-🎓 Electronics Engineering student who loves building things — whether it’s a game, a tool, or just some random experiment that popped into my head.  
-I spend a lot of my time making Roblox projects, small web apps, and tinkering with electronics.
+  <h1><b>Ernest Villacorta</b></h1>
+  <h3>Game Developer • Electronics Engineering Student • Lua Specialist</h3>
 
----
+  <p>
+    🇵🇭 Philippines • Programming since <b>2017</b> • 8+ years experience in <b>Lua/Luau</b>
+  </p>
 
-## 🛠 What I’ve Been Into
-- 🎮 **Roblox Development** — roleplay games, RTS ideas, survival sandboxes… I enjoy systems that feel alive and flexible.  
-- ⚡ **Side Projects** — POS systems, IoT dashboards, and random utilities that make my life easier.  
-- 🧩 **Problem Solving** — I weirdly enjoy debugging and figuring out why something isn’t working.
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RobloxStudio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
----
-
-## 🧰 Tech & Tools I Use
-- **Technologies:** Roblox Studio, Rojo, Python  
-- **Languages:** Lua, Luau, JavaScript, Node.js, Basic HTML/CSS  
-- **Frameworks:** Matter, ECS, Knit, React-Lua  
-- **Paradigms:** ECS, OOP, Imperative, Declarative  
-
-I also make external tools when needed — for example, I once built a Perlin noise previewer so I could experiment with procedural terrain for my Roblox game without running a Roblox game instance in Studio every time.
+</div>
 
 ---
 
-## 🌐 My Little Corner of the Web
-📎 [villaernest.dev](https://villaernest.dev)
+# 👋 Hey! I’m Ernest
+
+_(aka **MrOutput**)_  
+I'm an Electronics Engineering student and game developer obsessed with building systems, tools, and mechanics that feel alive and intentional.
 
 ---
 
-## 📫 How to Reach Me
-- GitHub: [@VillaErnest](https://github.com/VillaErnest)  
-- Email: villaernest.developer@gmail.com  
+## 🚀 What I Do
+
+### 🎮 Roblox Development
+
+- Simulation & RTS-style systems
+- Roleplay frameworks
+- Procedural mechanics
+- Gameplay logic and system design
+
+### 🔧 Tools & Side Projects
+
+- Perlin noise visualizer
+- IoT dashboards
+- POS experiments
+- Workflow utilities
+
+### 🧩 Debugging & Optimization
+
+I enjoy reverse-engineering broken code and understanding underlying system behavior.
+
+---
+
+## 🧰 Tech & Tools
+
+**Languages:** Lua/Luau, JavaScript, Node.js, HTML/CSS  
+**Tools:** Roblox Studio, Rojo, Python  
+**Frameworks:** Matter, ECS, Knit, React-Lua  
+**Paradigms:** ECS, OOP, Declarative, Imperative
+
+---
+
+## 🌐 Website
+
+📎 https://villaernest.dev
+
+---
+
+## 📫 Contact
+
+GitHub: [@VillaErnest](https://github.com/VillaErnest)  
+Email: **ernest@villaernest.dev**
