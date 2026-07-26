@@ -19,7 +19,7 @@
 
 Roblox Scripter and Lua/Luau Developer, also known as MrOutput. Lead Developer on live Incremental and RNG titles, nine years of Luau, and the systems that keep a running game upright.
 
-**Open to small commissions.** [villaernest.dev](https://villaernest.dev) · [ernest@villaernest.dev](mailto:ernest@villaernest.dev) · [@MrOutput](https://www.roblox.com/users/367354517/profile)
+**Open to small commissions.** [villaernest.dev](https://villaernest.dev), [ernest@villaernest.dev](mailto:ernest@villaernest.dev), [@MrOutput](https://www.roblox.com/users/367354517/profile)
 
 ## Live games
 
