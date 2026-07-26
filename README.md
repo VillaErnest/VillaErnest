@@ -54,5 +54,4 @@ Figures from the Roblox API, July 2026. The banner above is generated from the s
 ## Elsewhere
 
 Portfolio and services: [villaernest.dev](https://villaernest.dev)  
-Discord: [villaernest](https://discord.com/users/1262794859425828867)  
-Electronics Engineering student, Philippines.
+Discord: [villaernest](https://discord.com/users/1262794859425828867)
