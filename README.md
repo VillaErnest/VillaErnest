@@ -1,68 +1,48 @@
 <div align="center">
-
-  <h1><b>Ernest Villacorta</b></h1>
-  <h3>Game Developer • Electronics Engineering Student • Lua Specialist</h3>
-
-  <p>
-    🇵🇭 Philippines • Programming since <b>2017</b> • 8+ years experience in <b>Lua/Luau</b>
-  </p>
-
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RobloxStudio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
+  <a href="https://villaernest.dev">
+    <img src="banner.png" width="100%"
+      alt="Ernest, Roblox Scripter and Lua/Luau Developer. 18.9M+ visits, 851K+ favorites, 6 live games, 9 years of Luau.">
+  </a>
 </div>
 
----
+## Ernest Villacorta
 
-# 👋 Hey! I’m Ernest
+Roblox Scripter and Lua/Luau Developer, also known as MrOutput. Lead Developer on live Incremental and RNG titles, nine years of Luau, and the systems that keep a running game upright.
 
-_(aka **MrOutput**)_  
-I'm an Electronics Engineering student and game developer obsessed with building systems, tools, and mechanics that feel alive and intentional.
+**Available for contract work.** [villaernest.dev](https://villaernest.dev) · [ernest@villaernest.dev](mailto:ernest@villaernest.dev) · [@MrOutput](https://www.roblox.com/users/367354517/profile)
 
----
+## Live games
 
-## 🚀 What I Do
+Six shipped titles, 18.9M visits between them.
 
-### 🎮 Roblox Development
+| Game | Visits | Favorites |
+| :--- | ---: | ---: |
+| [Pull a Lucky Block!](https://www.roblox.com/games/72445826681792) | 16.6M | 841K |
+| [My Sushi Conveyor!](https://www.roblox.com/games/113274475497808) | 1.8M | 7.2K |
+| [Rule the World!](https://www.roblox.com/games/119274132884020) | 350K | 1.6K |
+| [My Ant Colony](https://www.roblox.com/games/128551550921649) | 64K | 138 |
+| [Fish for Enchants!](https://www.roblox.com/games/85819924646961) | 40K | 411 |
+| [Cut Grass for Bugs!](https://www.roblox.com/games/131936957932695) | 11K | 39 |
 
-- Simulation & RTS-style systems
-- Roleplay frameworks
-- Procedural mechanics
-- Gameplay logic and system design
+Figures from the Roblox API, July 2026. The banner above is generated from the same source.
 
-### 🔧 Tools & Side Projects
+## What I build
 
-- Perlin noise visualizer
-- IoT dashboards
-- POS experiments
-- Workflow utilities
+- Economy and progression systems, from currency sinks to prestige loops
+- Weighted RNG and luck curves, modelled before a line is written
+- Live ops on running games: staged releases, telemetry, balance passes
+- Tooling that unblocks a team, such as a Perlin noise previewer for terrain
+- Rojo-first codebases, including migrating Studio-only projects onto it
+- Staging to production CI/CD, so no change reaches players unvalidated
 
-### 🧩 Debugging & Optimization
+## Stack
 
-I enjoy reverse-engineering broken code and understanding underlying system behavior.
+**Languages** Luau, Lua, TypeScript, JavaScript, Python  
+**Roblox** Rojo, Knit, ECS, Matter, React-Lua, Roblox Studio  
+**Web** Next.js, React, Node.js, Sanity
 
----
+## Elsewhere
 
-## 🧰 Tech & Tools
-
-**Languages:** Lua/Luau, JavaScript, Node.js, HTML/CSS  
-**Tools:** Roblox Studio, Rojo, Python  
-**Frameworks:** Matter, ECS, Knit, React-Lua  
-**Paradigms:** ECS, OOP, Declarative, Imperative
-
----
-
-## 🌐 Website
-
-📎 https://villaernest.dev
-
----
-
-## 📫 Contact
-
-GitHub: [@VillaErnest](https://github.com/VillaErnest)  
-Email: **ernest@villaernest.dev**
+Portfolio and services: [villaernest.dev](https://villaernest.dev)  
+Discord: [villaernest](https://discord.com/users/1262794859425828867)  
+Electronics Engineering student, Philippines.
