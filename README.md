@@ -3,13 +3,24 @@
     <img src="banner.png" width="100%"
       alt="Ernest, Roblox Scripter and Lua/Luau Developer. 18.9M+ visits, 851K+ favorites, 6 live games, 9 years of Luau.">
   </a>
+
+  <p>
+    <img alt="Luau" src="https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white">
+    <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
+    <img alt="Roblox Studio" src="https://img.shields.io/badge/Roblox%20Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white">
+    <img alt="Rojo" src="https://img.shields.io/badge/Rojo-D14A28?style=for-the-badge&logoColor=white">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+  </p>
 </div>
 
 ## Ernest Villacorta
 
 Roblox Scripter and Lua/Luau Developer, also known as MrOutput. Lead Developer on live Incremental and RNG titles, nine years of Luau, and the systems that keep a running game upright.
 
-**Available for contract work.** [villaernest.dev](https://villaernest.dev) · [ernest@villaernest.dev](mailto:ernest@villaernest.dev) · [@MrOutput](https://www.roblox.com/users/367354517/profile)
+**Open to small commissions.** [villaernest.dev](https://villaernest.dev) · [ernest@villaernest.dev](mailto:ernest@villaernest.dev) · [@MrOutput](https://www.roblox.com/users/367354517/profile)
 
 ## Live games
 
