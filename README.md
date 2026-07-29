@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://villaernest.dev">
     <img src="banner.png" width="100%"
-      alt="Ernest, Roblox Scripter and Lua/Luau Developer. 18.9M+ visits, 851K+ favorites, 6 live games, 9 years of Luau.">
+      alt="Ernest, Roblox Scripter and Lua/Luau Developer. 19.0M+ visits, 851K+ favorites, 6 live games, 9 years of Luau.">
   </a>
 
   <br>
@@ -23,14 +23,14 @@ Roblox Scripter and Lua/Luau Developer, also known as MrOutput. Lead Developer o
 
 ## Live games
 
-Six shipped titles, 18.9M visits between them.
+Six shipped titles, 19.0M visits between them.
 
 | Game | Visits | Favorites |
 | :--- | ---: | ---: |
-| [Pull a Lucky Block!](https://www.roblox.com/games/72445826681792) | 16.6M | 841K |
-| [My Sushi Conveyor!](https://www.roblox.com/games/113274475497808) | 1.8M | 7.2K |
-| [Rule the World!](https://www.roblox.com/games/119274132884020) | 350K | 1.6K |
-| [My Ant Colony](https://www.roblox.com/games/128551550921649) | 64K | 138 |
+| [Pull a Lucky Block!](https://www.roblox.com/games/72445826681792) | 16.6M | 842K |
+| [My Sushi Conveyor!](https://www.roblox.com/games/113274475497808) | 1.8M | 7.3K |
+| [Rule the World!](https://www.roblox.com/games/119274132884020) | 351K | 1.6K |
+| [My Ant Colony](https://www.roblox.com/games/128551550921649) | 98K | 204 |
 | [Fish for Enchants!](https://www.roblox.com/games/85819924646961) | 40K | 411 |
 | [Cut Grass for Bugs!](https://www.roblox.com/games/131936957932695) | 11K | 39 |
 
