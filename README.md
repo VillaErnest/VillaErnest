@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://villaernest.dev">
     <img src="banner.png" width="100%"
-      alt="Ernest, Roblox Scripter and Lua/Luau Developer. 19.0M+ visits, 851K+ favorites, 6 live games, 9 years of Luau.">
+      alt="VillaErnest Studio. Hey, I make Roblox games. 25.9M total visits, 975.7K total favorites, 8 games.">
   </a>
 
   <br>
