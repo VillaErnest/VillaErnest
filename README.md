@@ -23,18 +23,21 @@ Roblox Scripter and Lua/Luau Developer, also known as MrOutput. Lead Developer o
 
 ## Live games
 
-Six shipped titles, 19.0M visits between them.
+Nine shipped titles, 25.9M visits between them.
 
 | Game | Visits | Favorites |
 | :--- | ---: | ---: |
-| [Pull a Lucky Block!](https://www.roblox.com/games/72445826681792) | 16.6M | 842K |
-| [My Sushi Conveyor!](https://www.roblox.com/games/113274475497808) | 1.8M | 7.3K |
-| [Rule the World!](https://www.roblox.com/games/119274132884020) | 351K | 1.6K |
-| [My Ant Colony](https://www.roblox.com/games/128551550921649) | 98K | 204 |
-| [Fish for Enchants!](https://www.roblox.com/games/85819924646961) | 40K | 411 |
+| [Pull a Lucky Block!](https://www.roblox.com/games/72445826681792) | 18.0M | 939K |
+| [My Ant Colony](https://www.roblox.com/games/128551550921649) | 5.1M | 26K |
+| [My Sushi Conveyor!](https://www.roblox.com/games/113274475497808) | 2.2M | 8.3K |
+| [Brainwash the World](https://www.roblox.com/games/119274132884020) | 420K | 1.9K |
+| [Make an Army RNG](https://www.roblox.com/games/86880847400025) | 66K | 309 |
+| [Fish for Enchants!](https://www.roblox.com/games/85819924646961) | 40K | 403 |
+| [Buy a Container](https://www.roblox.com/games/99352490684477) | 38K | 108 |
+| [Dive to Steal](https://www.roblox.com/games/121945996527450) | 12K | 54 |
 | [Cut Grass for Bugs!](https://www.roblox.com/games/131936957932695) | 11K | 39 |
 
-Figures from the Roblox API, July 2026. The banner above is generated from the same source.
+Figures from the Roblox API, November 2026. The banner above is generated from the same source.
 
 ## What I build
 
